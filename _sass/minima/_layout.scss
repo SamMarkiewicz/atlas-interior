@@ -40,7 +40,8 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $grey-color;
+    font-family: $title-font-family;
     line-height: $base-line-height;
     text-decoration: none;
 
