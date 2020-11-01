@@ -1,0 +1,28 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: post
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  default: now
+  hidden: true
+- type: text
+  name: description
+  label: description
+- type: text
+  name: categories
+  label: categories
+  default: blog
+  hidden: true
+- type: textarea
+  name: image
+  label: image

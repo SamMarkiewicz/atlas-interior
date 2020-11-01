@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-10-31 16:03:58 +0100
+title: Welcome to Jekyll!
+date: 2020-10-31T16:03:58.000+01:00
 categories: jekyll update
 image: https://images.unsplash.com/photo-1546447601-852699cc6dee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3453&q=80
----
 
+---
 ## A subtitle
 
 Among a lot of things I’m trying to do these days, there is a constant desire to write. Not really because there is a “Retour en grâce” of blogging, but because I always loved writing.
