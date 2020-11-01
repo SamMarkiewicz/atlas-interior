@@ -26,3 +26,18 @@ fields:
 - type: textarea
   name: image
   label: image
+- name: imageclass
+  type: select
+  default: center
+  config:
+    required: false
+    options:
+    - top
+    - bottom
+    - center
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: imageClass
