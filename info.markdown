@@ -15,6 +15,5 @@ Pour cela, il sera limité dans le temps, et se terminera donc dans 365 jours.
 ### Colophon
 
 **Fonts** : Inter / Playfair Display  
-Construit avec **Jekyll**, CMS via **Forestry**, hébergé par **Netlify**.
-
-\-> **Photos** : Unsplash / Self
+Construit avec **Jekyll**, CMS via **Forestry**, hébergé par **Netlify**.  
+**Photos** : Unsplash / Self
