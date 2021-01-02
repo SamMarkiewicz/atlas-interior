@@ -41,3 +41,5 @@ fields:
       file: 
       path: 
   label: imageClass
+pages:
+- _posts/le-jour-d-apres.md
